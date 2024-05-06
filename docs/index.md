@@ -10,12 +10,11 @@
 
 #### 队形变换
 
-<video width="320" height="240" controls>
+<video width="800" height="600" controls>
   <source src="video/formation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-如果显示"Your browser does not support the video tag."那就点击链接[队形变换](video/formation.mp4)观看
 
 #### 整体结构
 
@@ -27,19 +26,17 @@
 
 ##### 中间走位动作
 
-<video width="320" height="240" controls>
+<video width="800" height="600" controls>
   <source src="video/moving.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-如果显示"Your browser does not support the video tag."那就点击链接[中间走位动作](video/moving.mp4)观看
 
 ##### 中间新增加的动作
 
-<video width="320" height="240" controls>
+<video width="800" height="600" controls>
   <source src="video/new_move_mid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-如果显示"Your browser does not support the video tag."那就点击链接[中间新增加的动作](video/new_move_mid.mp4)观看
 
