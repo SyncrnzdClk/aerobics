@@ -1,0 +1,8 @@
+site_name: My Docs
+site_author: SyncrnzdClk
+theme:
+  name: material
+  features:
+    - navigation.instant
+nav:
+  - HomePage: index.md
