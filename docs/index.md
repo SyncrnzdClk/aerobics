@@ -40,3 +40,14 @@
 </video>
 
 
+### 2024/5/14
+增加了上述队形和动作的整合视频，并且更新了整体的结构（标出了可以跑动变换队形的动作）
+
+#### 整体结构
+![structure2](img/structure2.jpg)
+
+#### 整合视频
+<video width="800" height="600" controls>
+  <source src="video/integration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
